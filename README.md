@@ -1,1 +1,2 @@
 # Dairy-Sales-Dashboard
+The Dairy Sales Analysis report created using Power BI offers an insightful and interactive visualization of key metrics related to the sales performance of dairy products.The report includes visualizations like bar charts, line graphs, and pie charts, which highlight regional variations, customer demographics, and sales channels. This project helps empowering stakeholders to monitor sales performance, detect patterns, and optimize strategies for better profitability.
